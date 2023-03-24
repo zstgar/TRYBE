@@ -1,4 +1,4 @@
-# EXERCICIOS TRYBE 
+# TRYBE EXERCICIOS 
 
 ### :hourglass_flowing_sand: Módulo de Fundamentos
 
