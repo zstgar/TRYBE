@@ -3,7 +3,7 @@
 ### :hourglass_flowing_sand: Módulo de Fundamentos
 
 ##### 1. Unix, Shell e Git
-- [ ] [Dia 01: Unix & Shell]
+- [X] [Dia 01: Unix & Shell](https://github.com/zstgar/TRYBE/tree/fundamentos/1.1)
 - [ ] [Dia 02: O que é e para que serve]
 - [ ] [Dia 03: Git & GitHub - Entendendo os comandos]
 ##### 2. Introdução à HTML & CSS 
