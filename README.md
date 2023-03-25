@@ -5,7 +5,7 @@
 ##### 1. Unix, Shell e Git
 - [X] [Dia 01: Unix & Shell](https://github.com/zstgar/TRYBE/tree/fundamentos/1.1)
 - [X] [Dia 02: O que é e para que serve](https://github.com/zstgar/TRYBE/tree/fundamentos/1.2)
-- [ ] [Dia 03: Git & GitHub - Entendendo os comandos]
+- [X] [Dia 03: Git & GitHub - Entendendo os comandos](https://github.com/zstgar/TRYBE/tree/fundamentos/1.3)
 ##### 2. Introdução à HTML & CSS 
 - [ ] [Dia 01: HTML & CSS - Estruturas de página]  
 - [ ] [Dia 02: HTML & CSS - Primeiros passos em CSS]  
