@@ -11,7 +11,7 @@
 - [X] [Dia 02: HTML & CSS - Primeiros passos em CSS](https://github.com/zstgar/TRYBE/tree/fundamentos/2.2) 
 - [X] [Dia 03: HTML & CSS - Seletores e posicionamento](https://github.com/zstgar/TRYBE/tree/fundamentos/2.3)
 - [X] [Dia 04: HTML Semântico](https://github.com/zstgar/TRYBE/tree/fundamentos/2.4)
-- [ ] [Dia 05: Projeto - Lessons Learned]   
+- [X] [Dia 05: Projeto - Lessons Learned](https://github.com/zstgar/TRYBE)  
 
 ##### 3. Introdução à JavaScript
 - [ ] [Dia 01: JavaScript - Primeiros passos]
