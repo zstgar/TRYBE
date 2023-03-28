@@ -14,7 +14,7 @@
 - [X] [Dia 05: Projeto - Lessons Learned](https://github.com/zstgar/TRYBE/tree/fundamentos/2.5) 
 
 ##### 3. Introdução à JavaScript
-- [ ] [Dia 01: JavaScript - Primeiros passos]
+- [X] [Dia 01: JavaScript - Primeiros passos](https://github.com/zstgar/TRYBE/tree/fundamentos/3.1)
 - [ ] [Dia 02: JavaScript - Array e loop For]   
 - [ ] [Dia 03: JavaScript - Funções]   
 - [ ] [Dia 04: JavaScript - Objetos]    
