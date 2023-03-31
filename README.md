@@ -16,7 +16,7 @@
 ##### 3. Introdução à JavaScript
 - [X] [Dia 01: JavaScript - Primeiros passos](https://github.com/zstgar/TRYBE/tree/fundamentos/3.1)
 - [X] [Dia 02: JavaScript - Array e loop For](https://github.com/zstgar/TRYBE/tree/fundamentos/3.2)
-- [ ] [Dia 03: JavaScript - Funções]   
+- [X] [Dia 03: JavaScript - Funções](https://github.com/zstgar/TRYBE/tree/fundamentos/3.3)
 - [ ] [Dia 04: JavaScript - Objetos]    
 - [ ] [Dia 05: JavaScript ES6 - let, const, arrow functions e template literals]
 - [ ] [Dia 06: Projeto - Playground Functions]
