@@ -36,6 +36,9 @@ const showPromo = (name, number) => {
         ${productObject.product} no valor de R$ ${productObject.price}`;
     } catch(err) {
       secondText.innerHTML = err.message;
+    } finally {
+    document.querySelector('#name-id').value = "";
+    document.querySelector('#number-id').value = "";
     }
   }
 
@@ -69,3 +72,4 @@ const checkValidRange = (number) => {
       throw new Error('É necessário digitar um número entre 1 e 10');
     }
   }
+  
