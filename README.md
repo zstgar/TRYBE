@@ -39,7 +39,7 @@
 
 ##### 6. Introdução à JavaScript ES6 e Testes Unitários
 - [ ] [Dia 01: Fluxo de exceções e manipulação de objetos]   
-- [ ] [Dia 02: Primeiros passos em Jest] 
+- [X] [Dia 02: Primeiros passos em Jest](https://github.com/zstgar/TRYBE/tree/fundamentos/6.2)
 - [ ] [Dia 03: Matchers e cobertura de código]   
 - [ ] [Dia 04: Projeto - JavaScript Testes Unitários]    
 
