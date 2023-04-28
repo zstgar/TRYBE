@@ -1,5 +1,5 @@
 # Módulo de Fundamentos
 
-**6. Introdução à JavaScript ES6 e Testes Unitários | Dia 02: Primeiros passos em Jest**
+**3. Introdução à JavaScript | Dia 01: JavaScript - Primeiros passos**
 
 [Retornar](https://github.com/zstgar/TRYBE)
