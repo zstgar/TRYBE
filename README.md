@@ -18,7 +18,7 @@
 - [X] [Dia 02: JavaScript - Array e loop For](https://github.com/zstgar/TRYBE/tree/fundamentos/3.2)
 - [X] [Dia 03: JavaScript - Funções](https://github.com/zstgar/TRYBE/tree/fundamentos/3.3)
 - [X] [Dia 04: JavaScript - Objetos](https://github.com/zstgar/TRYBE/tree/fundamentos/3.4) 
-- [ ] [Dia 05: JavaScript ES6 - let, const, arrow functions e template literals]
+- [X] [Dia 05: JavaScript ES6 - let, const, arrow functions e template literals](https://github.com/zstgar/TRYBE/tree/fundamentos/3.5)
 - [X] [Dia 06: Projeto - Playground Functions]
 
 ##### 4. JavaScript: DOM, Eventos e WebStorage
