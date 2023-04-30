@@ -27,7 +27,7 @@
 - [ ] [Dia 03: JavaScript - Eventos]  
 - [ ] [Dia 04: JavaScript - Web Storage]  
 - [ ] [Dia 05: Projeto - Arte com Pixels] 
-- [X] [Dia 06: Projetos Bônus][Retornar](https://github.com/zstgar/TRYBE)
+- [X] [Dia 06: Projetos Bônus]
 
 ##### 5. HTML e CSS: Forms, Flexbox e Responsivo
 - [ ] [Dia 01: HTML & CSS - Forms]  
