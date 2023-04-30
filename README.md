@@ -19,7 +19,7 @@
 - [X] [Dia 03: JavaScript - Funções](https://github.com/zstgar/TRYBE/tree/fundamentos/3.3)
 - [X] [Dia 04: JavaScript - Objetos](https://github.com/zstgar/TRYBE/tree/fundamentos/3.4) 
 - [ ] [Dia 05: JavaScript ES6 - let, const, arrow functions e template literals]
-- [ ] [Dia 06: Projeto - Playground Functions]
+- [X] [Dia 06: Projeto - Playground Functions]
 
 ##### 4. JavaScript: DOM, Eventos e WebStorage
 - [ ] [Dia 01: JavaScript - DOM e seletores]  
@@ -35,7 +35,7 @@
 - [ ] [Dia 03: CSS Flexbox - Parte 1]  
 - [X] [Dia 04: CSS Flexbox - Parte 2](https://github.com/zstgar/TRYBE/tree/fundamentos/5.4)  
 - [ ] [Dia 05: CSS Responsivo - Mobile First]   
-- [ ] [Dia 06: Projeto - Trybewarts]    
+- [X] [Dia 06: Projeto - Trybewarts]    
 
 ##### 6. Introdução à JavaScript ES6 e Testes Unitários
 - [ ] [Dia 01: Fluxo de exceções e manipulação de objetos]   
