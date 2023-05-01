@@ -31,7 +31,7 @@
 
 ##### 5. HTML e CSS: Forms, Flexbox e Responsivo
 - [X] [Dia 01: HTML & CSS - Forms](https://github.com/zstgar/TRYBE/tree/fundamentos/5.1) 
-- [ ] [Dia 02: Bibliotecas JavaScript e Frameworks CSS] 
+- [X] [Dia 02: Bibliotecas JavaScript e Frameworks CSS](https://github.com/zstgar/TRYBE/tree/fundamentos/5.2) 
 - [ ] [Dia 03: CSS Flexbox - Parte 1]  
 - [X] [Dia 04: CSS Flexbox - Parte 2](https://github.com/zstgar/TRYBE/tree/fundamentos/5.4)  
 - [ ] [Dia 05: CSS Responsivo - Mobile First]   
