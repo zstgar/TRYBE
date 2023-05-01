@@ -22,7 +22,7 @@
 - [X] [Dia 06: Projeto - Playground Functions]
 
 ##### 4. JavaScript: DOM, Eventos e WebStorage
-- [ ] [Dia 01: JavaScript - DOM e seletores]  
+- [X] [Dia 01: JavaScript - DOM e seletores](https://github.com/zstgar/TRYBE/tree/fundamentos/4.1)  
 - [ ] [Dia 02: JavaScript - Trabalhando com elementos]    
 - [ ] [Dia 03: JavaScript - Eventos]  
 - [ ] [Dia 04: JavaScript - Web Storage]  
