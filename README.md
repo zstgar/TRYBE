@@ -24,7 +24,7 @@
 ##### 4. JavaScript: DOM, Eventos e WebStorage
 - [X] [Dia 01: JavaScript - DOM e seletores](https://github.com/zstgar/TRYBE/tree/fundamentos/4.1)  
 - [X] [Dia 02: JavaScript - Trabalhando com elementos](https://github.com/zstgar/TRYBE/tree/fundamentos/4.2)  
-- [ ] [Dia 03: JavaScript - Eventos]  
+- [X] [Dia 03: JavaScript - Eventos](https://github.com/zstgar/TRYBE/tree/fundamentos/4.3) 
 - [ ] [Dia 04: JavaScript - Web Storage]  
 - [ ] [Dia 05: Projeto - Arte com Pixels] 
 - [X] [Dia 06: Projetos Bônus]
