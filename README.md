@@ -25,8 +25,8 @@
 - [X] [Dia 01: JavaScript - DOM e seletores](https://github.com/zstgar/TRYBE/tree/fundamentos/4.1)  
 - [X] [Dia 02: JavaScript - Trabalhando com elementos](https://github.com/zstgar/TRYBE/tree/fundamentos/4.2)  
 - [X] [Dia 03: JavaScript - Eventos](https://github.com/zstgar/TRYBE/tree/fundamentos/4.3) 
-- [ ] [Dia 04: JavaScript - Web Storage]  
-- [ ] [Dia 05: Projeto - Arte com Pixels] 
+- [X] [Dia 04: JavaScript - Web Storage](https://github.com/zstgar/TRYBE/tree/fundamentos/4.4)  
+- [X] [Dia 05: Projeto - Arte com Pixels] 
 - [X] [Dia 06: Projetos Bônus]
 
 ##### 5. HTML e CSS: Forms, Flexbox e Responsivo
