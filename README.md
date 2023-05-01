@@ -30,7 +30,7 @@
 - [X] [Dia 06: Projetos Bônus]
 
 ##### 5. HTML e CSS: Forms, Flexbox e Responsivo
-- [ ] [Dia 01: HTML & CSS - Forms]  
+- [X] [Dia 01: HTML & CSS - Forms](https://github.com/zstgar/TRYBE/tree/fundamentos/5.1) 
 - [ ] [Dia 02: Bibliotecas JavaScript e Frameworks CSS] 
 - [ ] [Dia 03: CSS Flexbox - Parte 1]  
 - [X] [Dia 04: CSS Flexbox - Parte 2](https://github.com/zstgar/TRYBE/tree/fundamentos/5.4)  
