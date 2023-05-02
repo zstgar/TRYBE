@@ -27,7 +27,7 @@
 - [X] [Dia 03: JavaScript - Eventos](https://github.com/zstgar/TRYBE/tree/fundamentos/4.3) 
 - [X] [Dia 04: JavaScript - Web Storage](https://github.com/zstgar/TRYBE/tree/fundamentos/4.4)  
 - [X] [Dia 05: Projeto - Arte com Pixels](https://github.com/zstgar/TRYBE/tree/fundamentos/4.5)
-- [X] [Dia 06: Projetos Bônus]
+- [X] [Dia 06: Projetos Bônus](https://github.com/zstgar/TRYBE/tree/fundamentos/4.6)
 
 ##### 5. HTML e CSS: Forms, Flexbox e Responsivo
 - [X] [Dia 01: HTML & CSS - Forms](https://github.com/zstgar/TRYBE/tree/fundamentos/5.1) 
