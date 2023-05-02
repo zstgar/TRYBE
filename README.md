@@ -34,7 +34,7 @@
 - [X] [Dia 02: Bibliotecas JavaScript e Frameworks CSS](https://github.com/zstgar/TRYBE/tree/fundamentos/5.2) 
 - [X] [Dia 03: CSS Flexbox - Parte 1](https://github.com/zstgar/TRYBE/tree/fundamentos/5.3)  
 - [X] [Dia 04: CSS Flexbox - Parte 2](https://github.com/zstgar/TRYBE/tree/fundamentos/5.4)  
-- [ ] [Dia 05: CSS Responsivo - Mobile First]   
+- [X] [Dia 05: CSS Responsivo - Mobile First](https://github.com/zstgar/TRYBE/tree/fundamentos/5.5)   
 - [X] [Dia 06: Projeto - Trybewarts]    
 
 ##### 6. Introdução à JavaScript ES6 e Testes Unitários
