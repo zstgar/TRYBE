@@ -40,7 +40,7 @@
 ##### 6. Introdução à JavaScript ES6 e Testes Unitários
 - [X] [Dia 01: Fluxo de exceções e manipulação de objetos](https://github.com/zstgar/TRYBE/tree/fundamentos/6.1)   
 - [X] [Dia 02: Primeiros passos em Jest](https://github.com/zstgar/TRYBE/tree/fundamentos/6.2)
-- [ ] [Dia 03: Matchers e cobertura de código]   
+- [X] [Dia 03: Matchers e cobertura de código](https://github.com/zstgar/TRYBE/tree/fundamentos/6.3)   
 - [ ] [Dia 04: Projeto - JavaScript Testes Unitários]    
 
 ##### 7. Higher Order Functions do JavaScript ES6
