@@ -45,7 +45,7 @@
 
 ##### 7. Higher Order Functions do JavaScript ES6
 - [X] [Dia 01: Introdução a Higher Order Functions](https://github.com/zstgar/TRYBE/tree/fundamentos/7.1)   
-- [ ] [Dia 02: Higher Order Functions - sort e map]    
+- [X] [Dia 02: Higher Order Functions - sort e map](https://github.com/zstgar/TRYBE/tree/fundamentos/7.2)    
 - [ ] [Dia 03: Higher Order Functions - filter e reduce]   
 - [ ] [Dia 04: JavaScript ES6 - spread operator, rest parameters e object destructuring]   
 - [ ] [Dia 05: JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e Default parameters]    
