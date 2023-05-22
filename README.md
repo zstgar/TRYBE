@@ -52,5 +52,14 @@
 - [X] [Dia 06: Projeto - Zoo functions](https://github.com/zstgar/TRYBE/tree/fundamentos/7.6)   
 
 ### :hourglass_flowing_sand: Módulo de Front-end
+
+##### 1. Introdução ao Frontend e JavaScript assíncrono
+- [X] [Dia 01: Ambiente de desenvolvimento](https://github.com/zstgar/TRYBE/tree/fundamentos/8.1)
+- [ ] [Dia 02: JavaScript Assíncrono - Promises e fetch]
+- [ ] [Dia 03: Prática - Casa de Câmbio]
+- [ ] [Dia 04: Async, await e testes assíncronos]
+- [ ] [Dia 05: Projeto - iChoveu]
+-
+
 ### :hourglass_flowing_sand: Módulo de Back-end
 ### :hourglass_flowing_sand: Módulo de Ciência da Computação
