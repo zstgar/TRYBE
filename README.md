@@ -58,8 +58,7 @@
 - [ ] [Dia 02: JavaScript Assíncrono - Promises e fetch]
 - [ ] [Dia 03: Prática - Casa de Câmbio]
 - [ ] [Dia 04: Async, await e testes assíncronos]
-- [ ] [Dia 05: Projeto - iChoveu]
--
+- [ ] [Dia 05: Projeto - iChoveu] 
 
 ### :hourglass_flowing_sand: Módulo de Back-end
 ### :hourglass_flowing_sand: Módulo de Ciência da Computação
