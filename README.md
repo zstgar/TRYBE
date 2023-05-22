@@ -1,6 +1,6 @@
 # TRYBE EXERCICIOS 
 
-### :hourglass_flowing_sand: Módulo de Fundamentos
+### Módulo de Fundamentos
 
 ##### 1. Unix, Shell e Git
 - [X] [Dia 01: Unix & Shell](https://github.com/zstgar/TRYBE/tree/fundamentos/1.1)
@@ -51,7 +51,7 @@
 - [X] [Dia 05: JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e Default parameters](https://github.com/zstgar/TRYBE/tree/fundamentos/7.5)    
 - [X] [Dia 06: Projeto - Zoo functions](https://github.com/zstgar/TRYBE/tree/fundamentos/7.6)   
 
-### :hourglass_flowing_sand: Módulo de Front-end
+### Módulo de Front-end
 
 ##### 1. Introdução ao Frontend e JavaScript assíncrono
 - [X] [Dia 01: Ambiente de desenvolvimento](https://github.com/zstgar/TRYBE/tree/fundamentos/8.1)
