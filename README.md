@@ -49,7 +49,7 @@
 - [X] [Dia 03: Higher Order Functions - filter e reduce](https://github.com/zstgar/TRYBE/tree/fundamentos/7.3)  
 - [X] [Dia 04: JavaScript ES6 - spread operator, rest parameters e object destructuring](https://github.com/zstgar/TRYBE/tree/fundamentos/7.4)   
 - [X] [Dia 05: JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e Default parameters](https://github.com/zstgar/TRYBE/tree/fundamentos/7.5)    
-- [X] [Dia 06: Projeto - Zoo functions]    
+- [X] [Dia 06: Projeto - Zoo functions](https://github.com/zstgar/TRYBE/tree/fundamentos/7.6)   
 
 ### :hourglass_flowing_sand: Módulo de Front-end
 ### :hourglass_flowing_sand: Módulo de Back-end
