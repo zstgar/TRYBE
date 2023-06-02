@@ -54,7 +54,7 @@
 ### Módulo de Front-end
 
 ##### 1. Introdução ao Frontend e JavaScript assíncrono
-- [X] [Dia 01: Ambiente de desenvolvimento](https://github.com/zstgar/TRYBE/tree/fundamentos/8.1)
+- [X] [Dia 01: Ambiente de desenvolvimento](https://github.com/zstgar/TRYBE/tree/frontend/1.1)
 - [ ] [Dia 02: JavaScript Assíncrono - Promises e fetch]
 - [ ] [Dia 03: Prática - Casa de Câmbio]
 - [ ] [Dia 04: Async, await e testes assíncronos]
