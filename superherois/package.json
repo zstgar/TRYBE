@@ -1,0 +1,17 @@
+{
+  "name": "superherois",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js"
+  },
+  "author": "Lucas Stygar Rocha",
+  "license": "ISC",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.11.3",
+    "sweetalert2": "^11.7.10",
+    "vite": "^4.3.9"
+  }
+}
