@@ -55,10 +55,10 @@
 
 ##### 1. Introdução ao Frontend e JavaScript assíncrono
 - [X] [Dia 01: Ambiente de desenvolvimento](https://github.com/zstgar/TRYBE/tree/frontend/1.1)
-- [ ] [Dia 02: JavaScript Assíncrono - Promises e fetch]
-- [ ] [Dia 03: Prática - Casa de Câmbio]
+- [X] [Dia 02: JavaScript Assíncrono - Promises e fetch](https://github.com/zstgar/TRYBE/tree/frontend/1.2)
+- [X] [Dia 03: Prática - Casa de Câmbio]
 - [ ] [Dia 04: Async, await e testes assíncronos]
-- [ ] [Dia 05: Projeto - iChoveu] 
+- [X] [Dia 05: Projeto - iChoveu] 
 
 ### :hourglass_flowing_sand: Módulo de Back-end
 ### :hourglass_flowing_sand: Módulo de Ciência da Computação
