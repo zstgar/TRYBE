@@ -58,7 +58,7 @@
 - [X] [Dia 02: JavaScript Assíncrono - Promises e fetch](https://github.com/zstgar/TRYBE/tree/frontend/1.2)
 - [X] [Dia 03: Prática - Casa de Câmbio]
 - [ ] [Dia 04: Async, await e testes assíncronos]
-- [X] [Dia 05: Projeto - iChoveu] 
+- [X] [Dia 05: Projeto - iChoveu](https://github.com/zstgar/TRYBE/tree/frontend/1.5) 
 
 ### :hourglass_flowing_sand: Módulo de Back-end
 ### :hourglass_flowing_sand: Módulo de Ciência da Computação
