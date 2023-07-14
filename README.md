@@ -57,18 +57,18 @@
 - [X] [Dia 01: Ambiente de desenvolvimento](https://github.com/zstgar/TRYBE/tree/frontend/1.1)
 - [X] [Dia 02: JavaScript Assíncrono - Promises e fetch](https://github.com/zstgar/TRYBE/tree/frontend/1.2)
 - [X] [Dia 03: Prática - Casa de Câmbio]
-- [ ] [Dia 04: Async, await e testes assíncronos]
+- [X] [Dia 04: Async, await e testes assíncronos]
 - [X] [Dia 05: Projeto - iChoveu](https://github.com/zstgar/TRYBE/tree/frontend/1.5)
 
 ##### 2. Introdução ao React
 - [X] [Dia 01: Introdução ao React e ao Typescript]
-- [ ] [Dia 02: Componentes React e Props]
-- [ ] [Dia 03: Avançando em componentes]
-- [ ] [Dia 04: Revisão - Solar System]
-- [ ] [Dia 05: Estados e eventos]
-- [ ] [Dia 06: Formulários]
-- [ ] [Dia 07: Revisão - Store Back Office]
-- [ ] [Dia 08: Projeto - Password Manager]
+- [X] [Dia 02: Componentes React e Props]
+- [X] [Dia 03: Avançando em componentes]
+- [X] [Dia 04: Revisão - Solar System]
+- [X] [Dia 05: Estados e eventos]
+- [X] [Dia 06: Formulários]
+- [X] [Dia 07: Revisão - Store Back Office]
+- [X] [Dia 08: Projeto - Password Manager]
 
 ### :hourglass_flowing_sand: Módulo de Back-end
 ### :hourglass_flowing_sand: Módulo de Ciência da Computação
