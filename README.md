@@ -68,7 +68,7 @@
 - [X] [Dia 05: Estados e eventos]
 - [X] [Dia 06: Formulários]
 - [X] [Dia 07: Revisão - Store Back Office]
-- [X] [Dia 08: Projeto - Password Manager]
+- [X] [Dia 08: Projeto - Password Manager](https://github.com/zstgar/TRYBE/tree/frontend/2.8)
 
 ### :hourglass_flowing_sand: Módulo de Back-end
 ### :hourglass_flowing_sand: Módulo de Ciência da Computação
