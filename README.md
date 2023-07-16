@@ -62,7 +62,7 @@
 
 ##### 2. Introdução ao React
 - [X] [Dia 01: Introdução ao React e ao Typescript](https://github.com/zstgar/TRYBE/tree/frontend/2.1)
-- [X] [Dia 02: Componentes React e Props]
+- [X] [Dia 02: Componentes React e Props](https://github.com/zstgar/TRYBE/tree/frontend/2.2)
 - [X] [Dia 03: Avançando em componentes]
 - [X] [Dia 04: Revisão - Solar System]
 - [X] [Dia 05: Estados e eventos]
