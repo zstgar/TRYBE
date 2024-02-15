@@ -1,4 +1,4 @@
-# TRYBE EXERCICIOS 
+# TRYBE
 
 ### Módulo de Fundamentos
 
